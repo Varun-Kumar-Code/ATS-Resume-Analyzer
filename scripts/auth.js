@@ -65,7 +65,7 @@ if (loginForm) {
     try {
       await signInWithEmailAndPassword(auth, email, password);
       alert("Login successful!");
-      window.location.href = "/dashboard.html"; // Redirect to dashboard
+      window.location.href = "/dashboard.html";
     } catch (error) {
       alert(`Error: ${error.message}`);
     }

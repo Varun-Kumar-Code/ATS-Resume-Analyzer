@@ -22,7 +22,7 @@ header {
   text-align: center;
 }
 
-header h2{
+header h2 {
   padding-top: 7px;
   padding-bottom: 15px;
 }
@@ -80,7 +80,7 @@ button:hover {
   margin-right: 500px;
 }
 
-.upload-section h2{
+.upload-section h2 {
   padding-top: 150px;
   padding-bottom: 40px;
 }

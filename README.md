@@ -7,7 +7,7 @@ An AI-powered ATS Resume Analyzer with a sleek UI, smart insights, and seamless 
 ## 🛠️ Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Firebase (Authentication & Database)
+- **Backend:** Firebase & Supabase (Authentication & Database)
 - **AI Integration:** AI API for resume analysis
 
 ## 🚧 Current Status & Roadmap
